@@ -1,3 +1,13 @@
+
+> **Note:**  
+> The backend is hosted on **Render (Free Tier)**, which goes into sleep mode after inactivity.  
+> If you encounter the error:
+> ```
+> unable to connect to server
+> ```
+> please refresh the page, wait **30–60 seconds**, and try again.  
+> The server will wake up and start responding normally.
+
 # Resilient Live Polling System
 
 A real-time polling application with state recovery, enabling teachers to create interactive polls and students to participate with synchronized timers.
